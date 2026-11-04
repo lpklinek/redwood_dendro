@@ -10,7 +10,7 @@ Klinek et al. (2026), Coast redwoods in hotter, drier regions exhibit increased 
 
 To reference the paper, data, or methods, please cite Klinek et al. 2026.
 Contact Lily Klinek with questions at lpklinek\@ucdavis.edu.
-This repository's DOI is: 
+This repository's DOI is: [![DOI](https://zenodo.org/badge/1446271710.svg)](https://doi.org/10.5281/zenodo.23965592)
 
 ## 1. Overview
 
